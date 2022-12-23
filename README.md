@@ -1,2 +1,2 @@
 # odin_landing_page
-2nd porject of the odin project
+2nd project of the odin project
